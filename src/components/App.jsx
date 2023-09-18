@@ -3,6 +3,7 @@ import Header from "./Header";
 import Note from "./Note";
 import Footer from "./Footer";
 import notes from "../notes";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
